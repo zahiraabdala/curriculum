@@ -12,7 +12,7 @@
     />
     <link rel="stylesheet" href="css/paper.min.css" />
     <link rel="stylesheet" href="css/style.css" />
-    <title>José Sandino CV</title>
+    <title>Zahira Abdala CV</title>
     <?php 
     error_reporting(0);
 
